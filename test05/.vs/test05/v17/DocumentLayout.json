@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\VS\\\u521D\u5B66\\test05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874B9341-08E2-4676-BA6A-5B88022A9AB7}|test05\\test05.vcxproj|D:\\VS\\\u521D\u5B66\\test05\\test05\\test05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{874B9341-08E2-4676-BA6A-5B88022A9AB7}|test05\\test05.vcxproj|solutionrelative:test05\\test05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{13B00AF3-B1D4-4C43-80F7-017F74590CE0}|test05\\test05.vcxproj|D:\\VS\\\u521D\u5B66\\test05\\test05\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13B00AF3-B1D4-4C43-80F7-017F74590CE0}|test05\\test05.vcxproj|solutionrelative:test05\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test05.c",
-              "DocumentMoniker": "D:\\VS\\\u521D\u5B66\\test05\\test05\\test05.c",
-              "RelativeDocumentMoniker": "test05\\test05.c",
-              "ToolTip": "D:\\VS\\\u521D\u5B66\\test05\\test05\\test05.c",
-              "RelativeToolTip": "test05\\test05.c",
+              "Title": "FileName.c",
+              "DocumentMoniker": "D:\\VS\\\u521D\u5B66\\test05\\test05\\FileName.c",
+              "RelativeDocumentMoniker": "test05\\FileName.c",
+              "ToolTip": "D:\\VS\\\u521D\u5B66\\test05\\test05\\FileName.c",
+              "RelativeToolTip": "test05\\FileName.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-17T05:53:18.387Z",
+              "WhenOpened": "2024-08-17T06:00:06.093Z",
               "EditorCaption": ""
             },
             {
