@@ -1,4 +1,0 @@
-﻿  test 14.cpp
-D:\VS\初学\test 14\test 14\test 14.cpp(7,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\VS\初学\test 14\test 14\test 14.cpp(9,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  test 14.vcxproj -> D:\VS\初学\test 14\x64\Debug\test 14.exe
