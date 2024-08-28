@@ -1,0 +1,3 @@
+﻿  test 21.cpp
+D:\VS\初学\test 21\test 21\test 21.cpp(7,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test 21.vcxproj -> D:\VS\初学\test 21\x64\Debug\test 21.exe
