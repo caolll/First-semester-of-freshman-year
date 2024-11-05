@@ -1,0 +1,3 @@
+﻿  随机数组.cpp
+D:\VS\初学\随机数组\随机数组\随机数组.cpp(6,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  随机数组.vcxproj -> D:\VS\初学\随机数组\x64\Debug\随机数组.exe
